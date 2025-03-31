@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right top,#051937,#004d7a,#008793,#00bf72,#a8eb12);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn1{
+    color: black;
+    background-color: pink;
+    border-radius: 25px;
+    width: 150px;
+    height: 30px;
+    border: black 2px ;
+
+}
+#btn2{
+    color: black;
+    background-color: rgb(79, 128, 205);
+    border-radius: 25px;
+    width: 150px;
+    height: 30px;
+    border: black 2px ;
+    
+}
